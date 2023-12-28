@@ -1,7 +1,7 @@
 const express = require('express');
 const server = require('http').createServer();
 const WebSocketServer = require('ws').Server;
-const PORT = 3001;
+const PORT = 3000;
 
 const app = express();
 
